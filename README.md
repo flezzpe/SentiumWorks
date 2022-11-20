@@ -3,6 +3,7 @@
 Free closed source Windows learning software for the Roblox game. Designed as an internal cheat. Compatible with the Script-Ware version v3 by 100%
 
 Questions and answers!
+
 How do I open the menu?
 
 To open the menu, you need to press the right Shift key, while the game window should be open
